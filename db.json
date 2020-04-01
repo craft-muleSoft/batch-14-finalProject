@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "Peace",
+    "lastName": "To all",
+    "title": "Integration Developer"
+  },
+  {
+    "id": 2,
+    "firstName": "Nati",
+    "lastName": "Lee",
+    "title": "MuleSoft Integration Architecture"
+  },
+  {
+    "id": 3,
+    "firstName": "Dan",
+    "lastName": "Roye",
+    "title": "System Engineer"
+  }
+]
